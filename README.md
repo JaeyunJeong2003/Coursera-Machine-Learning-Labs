@@ -3,6 +3,14 @@ Weekly labs from Stanford-offered Coursera Machine Learning Course. -- Professor
 
 Oactave and Matlab are both compatible for these labs.
 
+- Motivation 
+
+After completing AP Computer Science A course last year, I wanted to challenge myself even more and 
+explore through complex computer science topics that I recently became fascinated about as a robot-enthusiant: machine learning.
+
+Despite not being able to comprehend every complex machine learning concepts, I hope my completion of this course is a good start for 
+onboarding AI field.
+
  - Course Description
 
 This online course offers wide range of machine learning topics that I could grasp as a beginner:
@@ -18,22 +26,23 @@ This online course offers wide range of machine learning topics that I could gra
   Week 9: Anomaly Detection and Recommender Systems<br>
   Week 10: Large Scale Machine Learning<br>
   Week 11: Application Example: Photo OCR
+  
+  - Period
+  
+  12/14/10 ~ 3/8/20
+  
 
- - Motivation 
+- Achievement
 
-After completing AP Computer Science A course last year, I wanted to challenge myself even more and 
-explore through complex computer science topics that I recently became fascinated about as a robot-enthusiant: machine learning.
-
-Despite not being able to comprehend every complex machine learning concepts, I hope my completion of this course is a good start for 
-onboarding AI field.
+Course Certificate from stanford online cousera
 
  - What I learned / plans to do next 
  
- Through this course/labs, I not only learned abstract machine learning concepts, but also real-life impactful applications 
- of these concepts that has not been fully developed yet: self-driving cars, medical diagnosis, online-fraud detection, etc.
+Through this course/labs, I not only learned abstract machine learning concepts, but also real-life impactful applications 
+of these concepts that has not been fully developed yet: self-driving cars, medical diagnosis, online-fraud detection, etc.
  
- Thus, intrigued to utilize the knowledge I gained from this course, I plan to create my personal project that I will work on
- for the rest of myy junior year: self-driving toy car.
+Thus, intrigued to utilize the knowledge I gained from this course, I plan to create my personal project that I will work on
+for the rest of myy junior year: self-driving toy car.
  
  
  
